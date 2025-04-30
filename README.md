@@ -1,7 +1,6 @@
 # Ejercicio Evaluado Especial
 
 ## CH53
----
 Itzel Annet Muñoz Espinosa
 
 Ejercicio Evaluado Especial, realizado el 30 de abril del 2025
